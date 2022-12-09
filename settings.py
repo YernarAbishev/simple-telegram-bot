@@ -1,2 +1,2 @@
-token = "5916429935:AAH5sKjw1cbTXCHbeihRUTTc88cOPRvW0BQ"
-bot_url = 'https://t.me/tgbasic_bot'
+token = "5939569923:AAGygTBpKaIgCP_pp2xuaa6Y0gTUEEqrALI"
+bot_url = "http://t.me/Begzat_bot"
